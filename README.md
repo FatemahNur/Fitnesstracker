@@ -1,4 +1,4 @@
-# Health and Fitness Tracker
+# Health and Fitness Tracker App
 A modern Java application to track your daily steps and distance, and estimate calories burned.
 
 # Features

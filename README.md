@@ -10,4 +10,4 @@ User-Friendly Interface: Modern UI design using Java Swing.
 Java Development Kit (JDK) 8 or later
 
 # Screenshot
-![](http:/
+![](https://github.com/FatemahNur/Fitnesstracker/blob/master/2024-05-29%20(1).png)
